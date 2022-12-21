@@ -56,7 +56,7 @@ warning.addEventListener("click", () => {
 info.addEventListener("click", () => {
   generateToast({
     message: "Write that down, write that down!",
-    background: "hsl(51 97.8% 65.1%%)",
+    background: 'hsl(51 97.8% 65.1%)',
     color: "hsl(51 97.8% 12.1%)",
     length: "6000ms",
   });
